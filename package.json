@@ -3,6 +3,7 @@
   "displayName": "yang-theme",
   "description": "教学专用",
   "version": "0.0.1",
+  "publisher": "haoyang",
   "engines": {
     "vscode": "^1.76.0"
   },
@@ -17,5 +18,9 @@
         "path": "./themes/Haoyang-color-theme.json"
       }
     ]
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nikoo007/yang-theme"
+}
 }

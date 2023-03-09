@@ -1,0 +1,21 @@
+{
+  "name": "yang-theme",
+  "displayName": "yang-theme",
+  "description": "教学专用",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.76.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Haoyang",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Haoyang-color-theme.json"
+      }
+    ]
+  }
+}
